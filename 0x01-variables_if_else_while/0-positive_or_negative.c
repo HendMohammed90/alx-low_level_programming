@@ -4,9 +4,7 @@
 /* more headers goes there */
 
 /**
-* this represnt a test for if Statment in C
-* also we will know more a bout generat random number
-*
+* 
 * main - Entry point
 *
 * Description: print value of n satus; zero, positive or negative
