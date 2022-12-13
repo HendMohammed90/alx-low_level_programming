@@ -11,12 +11,11 @@ int main(void)
 {
 	char c;
 
-	for (c = 'a'; c <= 'z'; ++c)
+	while (c <= 'z')
 		if (c == 'e' || c == 'q')
-		{
 			++c;
-		}
 		putchar(c);
+		++c;
 	putchar('\n');
 	return (0);
 }
